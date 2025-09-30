@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 About Me
-:   Qi Li is currently a third-year Ph.D. student (2022-Now) at Fuzhou University. My supervisor is Prof. Wenxi Liu.
+:   Qi Li is currently a fourth-year Ph.D. student (2022-Now) at Fuzhou University. My supervisor is Prof. Wenxi Liu. Welcome to contact me for cooperation
 
 Research Interests
 :   Ultra-high resolution image understanding, etc.
