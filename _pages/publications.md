@@ -23,8 +23,8 @@ IEEE Transactions on Multimedia (TMM)
 ### Playing to the Strengths of High-and Low-Resolution Cues for Ultra-high Resolution Image Segmentation
 **<mark>Qi Li</mark>**, Jiexin Luo, Chunxiao Chen, Jiaxin Cai, Wenjie Yang, Yuanlong Yu, Shengfeng He, Wenxi Liu  
 IEEE Robotics and Automation Letters (RA-L)
-### Regional crowd flow estimation from aerial view
-Huibin Wei, **<mark>Qi Li</mark>***, Xindai Lin, Yuhao Lin, Shu Wang, Shengfeng He, Antoni B Chan, Wenxi Liu
+### Regional crowd flow estimation from aerial view  
+Huibin Wei, **<mark>Qi Li</mark>***, Xindai Lin, Yuhao Lin, Shu Wang, Shengfeng He, Antoni B Chan, Wenxi Liu  
 Neural Networks  
 ### Category-Contrastive Fine-grained Crowd Counting and Beyond
 Meijing Zhang, Mengxue Chen, **<mark>Qi Li</mark>**, Yanchen Chen, Rui Lin, Xiaolian Li, Shengfeng He, Wenxi Liu  
