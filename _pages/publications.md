@@ -16,15 +16,19 @@ author_profile: true
 {% endfor %}
 
 # Journal Paper
+## 2026
+### Maintenance-Oriented Tunnel Digital Model Generation via Panoptic Segmentation of Ultra-High-Resolution Images
+Zehao Ye†, **<mark>Qi Li</mark>**†, Giuseppe Desiderio, Mengqi Huang, Wenxi Liu, Valentina Villa, Jelena Ninić (†Equal Contribution)  
+Computer-Aided Civil and Infrastructure Engineering (CACAIE)
 ## 2025
 ### Evolving Task-Agnostic Features from Task-Specific Priors for Multi-Task Dense Prediction  
-**<mark>Qi Li</mark>**, Jiexin Luo, Wengqi Deng, Wenjie Yang, Fei Chen, Yuanlong Yu, Jia Pan, Shengfeng He, Wenxi Liu  
+**<mark>Qi Li</mark>**†, Jiexin Luo†, Wengqi Deng, Wenjie Yang, Fei Chen, Yuanlong Yu, Jia Pan, Shengfeng He, Wenxi Liu (†Equal Contribution)  
 IEEE Transactions on Multimedia (TMM)  
 ### Playing to the Strengths of High-and Low-Resolution Cues for Ultra-high Resolution Image Segmentation
 **<mark>Qi Li</mark>**, Jiexin Luo, Chunxiao Chen, Jiaxin Cai, Wenjie Yang, Yuanlong Yu, Shengfeng He, Wenxi Liu  
 IEEE Robotics and Automation Letters (RA-L)
 ### Regional crowd flow estimation from aerial view  
-Huibin Wei, **<mark>Qi Li</mark>***, Xindai Lin, Yuhao Lin, Shu Wang, Shengfeng He, Antoni B. Chan, Wenxi Liu  
+Huibin Wei, **<mark>Qi Li</mark>***, Xindai Lin, Yuhao Lin, Shu Wang, Shengfeng He, Antoni B. Chan, Wenxi Liu (*Corresponding Author)  
 Neural Networks  
 ### Category-Contrastive Fine-grained Crowd Counting and Beyond
 Meijing Zhang, Mengxue Chen, **<mark>Qi Li</mark>**, Yanchen Chen, Rui Lin, Xiaolian Li, Shengfeng He, Wenxi Liu  
@@ -74,7 +78,7 @@ ICRA
 ### Projecting your view attentively: Monocular road scene layout estimation via cross-view transformation
 Weixiang Yang, **<mark>Qi Li</mark>**, Wenxi Liu, Yuanlong Yu, Yuexin Ma, Shengfeng He, Jia Pan  
 CVPR 
-### From contexts to locality: Ultra-high resolution image segmentation via locality-aware contextual correlation
+## From contexts to locality: Ultra-high resolution image segmentation via locality-aware contextual correlation
 **<mark>Qi Li</mark>**, Weixiang Yang, Wenxi Liu, Yuanlong Yu, Shengfeng He  
 ICCV
 
