@@ -17,7 +17,7 @@ Our small group meetings
 :   
 Name：[SegBro](https://segbro.github.io)  
 Focus: Paper reading and discussion.  
-Frequency: Once a week (Nov 1 '23-Now).  
+Frequency: Once a week (Nov 1 '23-Sep 11 '25).  
 Attendees: 3-7 members.
 
 Services
