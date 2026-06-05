@@ -17,6 +17,9 @@ author_profile: true
 
 # Journal Paper
 ## 2026
+### Adapting SAM to nuclei instance segmentation and classification via Cooperative Fine-Grained Refinement  
+Jingze Su, Tianle Zhu, Jiaxin Cai, Zhiyi Wang, **<mark>Qi Li</mark>**, Xiao Zhang, Tong Tong, Shu Wang, Wenxi Liu  
+Medical Image Analysis (MIA)
 ### Maintenance-Oriented Tunnel Digital Model Generation via Panoptic Segmentation of Ultra-High-Resolution Images
 Zehao Ye†, **<mark>Qi Li</mark>**†, Giuseppe Desiderio, Mengqi Huang, Wenxi Liu, Valentina Villa, Jelena Ninić (†Equal Contribution)  
 Computer-Aided Civil and Infrastructure Engineering (CACAIE)
