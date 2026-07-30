@@ -17,16 +17,19 @@ author_profile: true
 
 # Journal Paper
 ## 2026
+### Parameter-Efficient Local-Context Cooperation via Vision Foundation Models for UHR Remote Sensing Image Segmentation
+**<mark>Qi Li</mark>**, Chunxiao Chen, Jiaxin Cai, Junjie Huang, Yansheng Li, Wenxi Liu  
+IEEE Transactions on Geoscience and Remote Sensing (TGRS)
 ### Adapting SAM to nuclei instance segmentation and classification via Cooperative Fine-Grained Refinement  
 Jingze Su, Tianle Zhu, Jiaxin Cai, Zhiyi Wang, **<mark>Qi Li</mark>**, Xiao Zhang, Tong Tong, Shu Wang, Wenxi Liu  
 Medical Image Analysis (MIA)
 ### Maintenance-Oriented Tunnel Digital Model Generation via Panoptic Segmentation of Ultra-High-Resolution Images
 Zehao Ye†, **<mark>Qi Li</mark>**†, Giuseppe Desiderio, Mengqi Huang, Wenxi Liu, Valentina Villa, Jelena Ninić (†Equal Contribution)  
 Computer-Aided Civil and Infrastructure Engineering (CACAIE)
-## 2025
 ### Evolving Task-Agnostic Features from Task-Specific Priors for Multi-Task Dense Prediction  
 **<mark>Qi Li</mark>**†, Jiexin Luo†, Wengqi Deng, Wenjie Yang, Fei Chen, Yuanlong Yu, Jia Pan, Shengfeng He, Wenxi Liu (†Equal Contribution)  
 IEEE Transactions on Multimedia (TMM)  
+## 2025
 ### Playing to the Strengths of High-and Low-Resolution Cues for Ultra-high Resolution Image Segmentation
 **<mark>Qi Li</mark>**, Jiexin Luo, Chunxiao Chen, Jiaxin Cai, Wenjie Yang, Yuanlong Yu, Shengfeng He, Wenxi Liu  
 IEEE Robotics and Automation Letters (RA-L)
