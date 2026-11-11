@@ -69,6 +69,9 @@ Nature Communications
 
 # Conference paper
 ## 2026
+### UniCrack: An All-in-One Framework for Single-and Multi-Modal Crack Segmentation
+Jiaxin Cai, Ziliang Zhang, Weihao Lin, **<mark>Qi Li</mark>**, Huanqi Wu, Huangbiao Xu, Haoran Xie, Fu  
+ACM MM
 ### Seeing in Double: Dual-Granularity BEV Segmentation via Mamba-Driven Alignment and Polar-Decoupled Experts  
 Jiaxin Cai, Rui Lin, Jingze Su, **<mark>Qi Li</mark>**, Wenjie Yang, Yuanlong Yu, Wenxi Liu  
 AAAI
